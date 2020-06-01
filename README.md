@@ -1,3 +1,3 @@
-Это мой сайт-портфолио. Ниже ссылка на GitHub Pages:
+This is my old portfolio. Link on GitHub Pages:
 
-https://zhidunov.github.io/Portfolio
+https://zhidunov.github.io/Old-Portfolio
